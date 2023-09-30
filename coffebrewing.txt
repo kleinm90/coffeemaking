@@ -1,0 +1,70 @@
+A. Bisschen Theorie und Überlegungen
+
+B. 
+	1. Kaffee Prozess
+	2. Instrumente vorstellen
+	3. Wasser
+
+
+## Zeitgenossische Kaffee paradigma
+
+1st wave was drip coffee post-WWII
+2nd wave was Starbucks-type espresso drinks 
+3rd wave means special roasts and a quest for even a good shot of espresso. Starbucks does a very dark roast while most 3rd wave shops do a medium roast microlot kaffee
+- connoisseurship, man kann heute nicht mehr einfach nur kaffee trinken alles muss besonders sein, oder siehe auch Andreas Reckwitz Die Gesellschaft der Singularitäten
+
+### Warum ueberhaupt messen und vergleichen, 
+
+#### connoisseurship, man kann heute nicht mehr einfach nur kaffee trinken alles muss besonders sein, oder siehe auch Andreas Reckwitz Die Gesellschaft der Singularitäten
+	Meine Messsage ist, dass man sich nicht von dem Marketing Lingo und dem Snob Effekt blenden laesst, aber trotzdem mit einer gewissen expertise an das kaffe trinken herangeht um schneller zu besseren ergebnissen zu kommen. prätentiös.
+
+	Was ist ueberhaupt guter Kaffe? Ueber geschmack laesst sich nicht streiten, diese werkzeuge sind hilfsmittel die es ermoeglichen sollen ergebnisse reproduzierbar zu machen, man kann nicht einen fixen masstab entwickeln und diesen dann auf jeden kaffee drauf klatschen und sagen dass ist ein guter oder schlechter, es sind nur referenzpunkte oder orientierungspunkte. Man muss selbst hergehen diese Werkzeuge verwenden und erschmecken was diese werte sagen und herausfinden was schmeckt.
+Eine Messung wird von einer Beobachter:in durchgefuehrt und es gibt keine Beobachtung(oder Messung), oder dass die etwas ohne die Beobachter:in aussagen wuerde. Also wenn man die Beobachter:in aus der Beobachtung heraustrennen wuerde, dann wuered von einer Beobachtung nichts uebrig bleiben. Gestaltqualitaet, alle Erlebnisse eines individuellen Bewusstseins(Adrono, Philosophische Terminologie Bd.2, 145) 
+### Quantitive Aesthetics 
+
+Ben Davis Quantitive Aesthetics https://news.artnet.com/opinion/quantitative-aesthetics-2276351
+
+
+
+### Waage
+### Thermometer
+
+https://towardsdatascience.com/affordable-coffee-solubility-tools-tds-for-espresso-brix-vs-atago-f8367efb5aa4
+https://www.baristainstitute.com/blog/jori-korhonen/february-2019/what-tds-coffee-and-how-measure-strength-coffee
+https://fellowproducts.com/blogs/learn/the-beginner-s-guide-to-total-dissolved-solids-and-coffee
+
+### ATAGO REFRACTOMETER PAL COFFEE (BX/TDS) 349,00 €
+https://homebarista.be/de/shop/products/atago-refractometer-pal-coffee-bx-tds
+
+### Brix Refraktometer 19,99€
+https://www.amazon.de/Refraktometer-Dual-Skala-Spezifische-Hydrometer-Aluminium/dp/B01M1GLSSF
+
+
+### Flintronic TDS/EC Wasserqualitätstest 
+https://www.amazon.de/gp/product/B0BWF2LTCJ
+
+
+Kaffee Parameter die wir Beeinflussen koennen
+
+Kaffee Menge, Wasser Menge, Mahlgrad (wenn wir eine muehle haben), Druck(bei espresso), Brauzeit, Immersion oder Durchlauf
+
+Guter Startpunkt fuer Filterkaffe oder Frenchpress 1:15 Kaffe zu Wasser, Wasser Temperatur meist von 80 grad bis 100 Grad, umso dunkler gerostet umso weniger warm das wasser, (oder z.b. regelbruch, darkroast bei max temp aber dafuer extrem grobes kaffee pulver)
+
+
+## Wasser
+Vor ca. 1200 Jahren hat man schon erkannt wie wichtig weiches Wasser fuer Warmgetraenke ist, Lu Yu, Chajing, „Das Buch vom Tee oder Der Tee-Klassiker“, Bergwasser 
+1. Wasser aus dem Hahn, sehr hart in deutschland, NYC oder Melbourn oder Japan haben weiches Leitungswasser
+2. https://thirdwavewater.com/en-de sehr teuer
+3. Flaschenwasser oder auch remineralisiert
+4. Filter anlage.
+
+https://www.baristahustle.com/blog/water-chemistry-for-tea/
+https://www.baristahustle.com/blog/diy-water-recipes-redux/
+https://www.baristahustle.com/blog/diy-water-recipes-the-world-in-two-bottles/
+https://www.baristahustle.com/blog/water-hardness/
+https://www.baristahustle.com/app-archive-main/the-water-calculator/
+
+### Epsom Salts – MgSO4, Magnesium Sulfate
+### Baking Soda – NaHCO3, Sodium Bicarbonate, Bicarb (not baking powder) (Natron in Deutschland)
+### Deionised/Distilled/Ultra-pure water
+
